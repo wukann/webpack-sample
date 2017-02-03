@@ -1,0 +1,14 @@
+{
+  "name": "webpack-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wukann/webpack-sample.git",
+  "author": "Hiroyuki Kano <wukann@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack index.js bundle.js"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
