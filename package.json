@@ -6,7 +6,7 @@
   "author": "Hiroyuki Kano <wukann@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack index.js bundle.js"
+    "build": "webpack"
   },
   "devDependencies": {
     "webpack": "^2.2.1"
